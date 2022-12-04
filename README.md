@@ -7,4 +7,4 @@ Batch: 9
 No. Siswa: dewi-I4Zs
 
 Proyek dibuat dengan Python di platform Google Colab dan disusun ke dalam laporan di software Microsoft Powerpoint. 
-Proyek ini dikemudian dipresentasikan sebagai video dan diupload ke YouTube. 
+Proyek ini dikemudian dipresentasikan sebagai video dan diupload ke YouTube (https://bit.ly/dewiastutiyt). 
